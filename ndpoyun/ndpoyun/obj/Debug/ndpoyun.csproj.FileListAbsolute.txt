@@ -1,0 +1,30 @@
+C:\Users\Toshiba\Desktop\Programlar\ndpoyun\ndpoyun\bin\Debug\ndpoyun.exe.config
+C:\Users\Toshiba\Desktop\Programlar\ndpoyun\ndpoyun\bin\Debug\ndpoyun.exe
+C:\Users\Toshiba\Desktop\Programlar\ndpoyun\ndpoyun\bin\Debug\ndpoyun.pdb
+C:\Users\Toshiba\Desktop\Programlar\ndpoyun\ndpoyun\obj\Debug\ndpoyun.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Programlar\ndpoyun\ndpoyun\obj\Debug\ndpoyun.Form1.resources
+C:\Users\Toshiba\Desktop\Programlar\ndpoyun\ndpoyun\obj\Debug\ndpoyun.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\Programlar\ndpoyun\ndpoyun\obj\Debug\ndpoyun.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Desktop\Programlar\ndpoyun\ndpoyun\obj\Debug\ndpoyun.exe
+C:\Users\Toshiba\Desktop\Programlar\ndpoyun\ndpoyun\obj\Debug\ndpoyun.pdb
+C:\Users\Toshiba\Desktop\Programlar\ndpoyun\ndpoyun\bin\Debug\YüksekSkor.accdb
+C:\Users\Toshiba\Desktop\b151210077\ndpoyun\ndpoyun\bin\Debug\ndpoyun.exe.config
+C:\Users\Toshiba\Desktop\b151210077\ndpoyun\ndpoyun\obj\Debug\ndpoyun.exe
+C:\Users\Toshiba\Desktop\b151210077\ndpoyun\ndpoyun\obj\Debug\ndpoyun.pdb
+C:\Users\Toshiba\Desktop\b151210077\ndpoyun\ndpoyun\bin\Debug\YüksekSkor.accdb
+C:\Users\Toshiba\Desktop\b151210077\ndpoyun\ndpoyun\bin\Debug\ndpoyun.exe
+C:\Users\Toshiba\Desktop\b151210077\ndpoyun\ndpoyun\bin\Debug\ndpoyun.pdb
+C:\Users\Toshiba\Desktop\b151210077\ndpoyun\ndpoyun\obj\Debug\ndpoyun.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\b151210077\ndpoyun\ndpoyun\obj\Debug\ndpoyun.Form1.resources
+C:\Users\Toshiba\Desktop\b151210077\ndpoyun\ndpoyun\obj\Debug\ndpoyun.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\b151210077\ndpoyun\ndpoyun\obj\Debug\ndpoyun.csproj.GenerateResource.Cache
+C:\Users\Toshiba\Desktop\Ders Notları\Nesneye Dayalı Programlama\Ödev\Ödev 3 ve 4 C#\b151210077\ndpoyun\ndpoyun\bin\Debug\ndpoyun.exe.config
+C:\Users\Toshiba\Desktop\Ders Notları\Nesneye Dayalı Programlama\Ödev\Ödev 3 ve 4 C#\b151210077\ndpoyun\ndpoyun\obj\Debug\ndpoyun.exe
+C:\Users\Toshiba\Desktop\Ders Notları\Nesneye Dayalı Programlama\Ödev\Ödev 3 ve 4 C#\b151210077\ndpoyun\ndpoyun\obj\Debug\ndpoyun.pdb
+C:\Users\Toshiba\Desktop\Ders Notları\Nesneye Dayalı Programlama\Ödev\Ödev 3 ve 4 C#\b151210077\ndpoyun\ndpoyun\bin\Debug\YüksekSkor.accdb
+C:\Users\Toshiba\Desktop\Ders Notları\Nesneye Dayalı Programlama\Ödev\Ödev 3 ve 4 C#\b151210077\ndpoyun\ndpoyun\bin\Debug\ndpoyun.exe
+C:\Users\Toshiba\Desktop\Ders Notları\Nesneye Dayalı Programlama\Ödev\Ödev 3 ve 4 C#\b151210077\ndpoyun\ndpoyun\bin\Debug\ndpoyun.pdb
+C:\Users\Toshiba\Desktop\Ders Notları\Nesneye Dayalı Programlama\Ödev\Ödev 3 ve 4 C#\b151210077\ndpoyun\ndpoyun\obj\Debug\ndpoyun.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Ders Notları\Nesneye Dayalı Programlama\Ödev\Ödev 3 ve 4 C#\b151210077\ndpoyun\ndpoyun\obj\Debug\ndpoyun.Form1.resources
+C:\Users\Toshiba\Desktop\Ders Notları\Nesneye Dayalı Programlama\Ödev\Ödev 3 ve 4 C#\b151210077\ndpoyun\ndpoyun\obj\Debug\ndpoyun.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\Ders Notları\Nesneye Dayalı Programlama\Ödev\Ödev 3 ve 4 C#\b151210077\ndpoyun\ndpoyun\obj\Debug\ndpoyun.csproj.GenerateResource.Cache
